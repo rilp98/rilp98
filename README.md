@@ -1,6 +1,7 @@
 # Hola, I am Paola 👋
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paola-anttonela-rossi-querales/)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/Paola94331726)
 
 <div>
 <img src="https://media0.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" alt="Working Silicon Valley Sticker by Mr Urbina" align="right" style="width: 190px; height: 190px;">
