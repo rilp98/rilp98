@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paola-anttonela-rossi-querales/)
 
 <div>
-<img src="https://media0.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" alt="Working Silicon Valley Sticker by Mr Urbina" align="right" style="width: 220px; height: 220px;">
+<img src="https://media0.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" alt="Working Silicon Valley Sticker by Mr Urbina" align="right" style="width: 190px; height: 190px;">
 <div align="left"><br/>
   
 - 👩‍💻 I'm a Frontend Developer.
