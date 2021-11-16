@@ -4,7 +4,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/Paola94331726)
 
 <div>
-<img src="https://media0.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" alt="girl working image" align="right" style="width:22%;">
+<img src="https://media0.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" alt="girl working image" align="right" style="width:23%;">
 <div align="left"><br/>
   
 - 👩‍💻 I'm a Frontend Developer.
