@@ -21,6 +21,7 @@
 
 ## Most Used Languages
 ![rilp98's GitHub stats](https://github-readme-stats.vercel.app/api?username=rilp98&show_icons=true&theme=default)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rilp98&layout=compact)](https://github.com/klaryon/github-readme-stats)
 
 
 
