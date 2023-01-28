@@ -1,4 +1,4 @@
-# Hey, I am Antonella 👋
+# Hey, I am Paola 👋
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paola-anttonela-rossi-querales/)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/Paola94331726)
